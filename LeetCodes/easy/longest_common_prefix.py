@@ -14,4 +14,10 @@ class Solution:
 				common_prefix += smallest_word[i]
 			else:
 				break;
+<<<<<<< HEAD
 		return common_prefix
+=======
+		return common_prefix
+
+print(Solution().longestCommonPrefix(["cir","car"]))
+>>>>>>> 3ab3713944fa2ada8c42d620f24dab8ac6f2660c
